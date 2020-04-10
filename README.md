@@ -5,8 +5,8 @@ This web scraper has been created in order to collect Trip Advisor reviews for o
 
 Data was collected according two different strategies:
 
-- **Strategy 1:** Collect last 5 comments posted for each restaurant located in the neighborhood.
-- **Strategy 2:** Collect last 50 comments posted for the 20 top-reviewed restaurants located in the neighborhood.
+- **Strategy 1:** Collecting last 5 comments posted for each restaurant located in the neighborhood.
+- **Strategy 2:** Collecting last 50 comments posted for the 20 top-reviewed restaurants located in the neighborhood.
 
 For each comment, we collect the following meta-information:
 
