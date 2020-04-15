@@ -16,6 +16,4 @@ For each comment, we collect the following meta-information:
 
 `Selenium` has been used for dynamic navigation of web page and `BeautifulSoup` for collecting data, instead. 
 
-I used the collected data in order to create two corpora and perform a text mining analysis. The analysis' results are published on [RPubs](https://rpubs.com/donabiancone/trip-advisor-textmining) (in italian).
-
-
+I used the collected data in order to create two corpora and perform a text mining analysis (source code can be found [here](https://github.com/donabiancone/Text-Mining-on-Trip-Advisor-Reviews)). The analysis' results are published on [RPubs](https://rpubs.com/donabiancone/trip-advisor-textmining) (in italian).
